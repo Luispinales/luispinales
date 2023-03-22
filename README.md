@@ -6,3 +6,11 @@
     
 </h3>
 </div>
+
+---
+
+I have experience with, HTML, Javascript, CSS, Typescript, React, Node.JS, Express.JS, PHP and Python 
+
+You can reach by my email **Luispamparo13@gmail.com
+
+I'm currently learning **AWS, SQL and MongoDB 
