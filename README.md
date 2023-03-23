@@ -33,7 +33,7 @@ width="40" height= "40"/>&nbsp;
 width="40" height= "40"/>&nbsp;
 <img src = "https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" title="PHP" alt="PHP"
 width="40" height= "40"/>&nbsp;
-<img src = "[https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png](https://logospng.org/download/node-js/logo-node-js-512.png)" title="Nodejs" alt="Nodejs"
+<img src = "https://logospng.org/download/node-js/logo-node-js-1024.png" title="Nodejs" alt="Nodejs"
 width="40" height= "40"/>&nbsp;
 <img src = "https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" title="ExpressJS" alt="ExpressJS"
 width="40" height= "40"/>&nbsp;
