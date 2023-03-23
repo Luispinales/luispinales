@@ -20,12 +20,12 @@ I'm currently learning **AWS, SQL and MongoDB
 <h3> Language and Tools</h3>
 
 <div>
-<img src = "https://logospng.org/wp-content/uploads/html-5.png" title="HTML5" alt="HTML"
+<img src = "https://logospng.org/download/html-5/logo-html-5-768.png" title="HTML5" alt="HTML"
+width="40" height= "40"/>&nbsp;
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" title="CSS" alt="CSS"
 width="40" height= "40"/>&nbsp;
  
-
-
-
 
 </div> 
 
