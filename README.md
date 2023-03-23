@@ -14,3 +14,19 @@ I have experience with, HTML, Javascript, CSS, Typescript, React, Node.JS, Expre
 You can reach by my email **Luispamparo13@gmail.com
 
 I'm currently learning **AWS, SQL and MongoDB 
+
+
+<div align= "left">
+<h3> Language and Tools</h3>
+
+<div>
+<img src = "https://logospng.org/wp-content/uploads/html-5.png" title="HTML5" alt="HTML"
+width="40" height= "40"/>&nbsp;
+ 
+
+
+
+
+</div> 
+
+</div>
