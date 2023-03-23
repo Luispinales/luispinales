@@ -23,7 +23,7 @@ I'm currently learning **AWS, SQL and MongoDB
 <div>
 <img src = "https://logospng.org/download/html-5/logo-html-5-768.png" title="HTML5" alt="HTML"
 width="40" height= "40"/>&nbsp;
-<img src = "[https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png](https://logospng.org/wp-content/uploads/css-3.png)" title="CSS" alt="CSS"
+<img src = "https://logospng.org/download/css-3/logo-css-3-768.png" title="CSS" alt="CSS"
 width="40" height= "40"/>&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" title="Javascript" alt="Javascript"
 width="40" height= "40"/>&nbsp;
