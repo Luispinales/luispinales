@@ -34,28 +34,25 @@ width="40" height= "40"/>&nbsp;
 width="40" height= "40"/>&nbsp;
  
 
+<div>
+<img src = "https://logospng.org/download/html-5/logo-html-5-768.png" title="HTML5" alt="HTML"
+width="40" height= "40"/>&nbsp;
+<img src = "https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" title="CSS" alt="CSS"
+width="40" height= "40"/>&nbsp;
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" title="Javascript" alt="Javascript"
+width="40" height= "40"/>&nbsp;
+<img src = "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" title="React" alt="React"
+width="40" height= "40"/>&nbsp;
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" title="Typescript" alt="Typescript"
 width="40" height= "40"/>&nbsp;
- 
-
 <img src = "https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" title="PHP" alt="PHP"
 width="40" height= "40"/>&nbsp;
- 
-
 <img src = "https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" title="Nodejs" alt="Nodejs"
 width="40" height= "40"/>&nbsp;
- 
-
 <img src = "https://w7.pngwing.com/pngs/545/451/png-transparent-node-js-express-js-javascript-solution-stack-web-application-others-angle-text-rectangle-thumbnail.png" title="ExpressJS" alt="ExpressJS"
 width="40" height= "40"/>&nbsp;
- 
-
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python"
 width="40" height= "40"/>&nbsp;
- 
-
-
-
 </div> 
 
 </div>
