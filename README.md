@@ -19,21 +19,7 @@ I'm currently learning **AWS, SQL and MongoDB
 <div align= "left">
 <h3> Language and Tools</h3>
 
-<div>
-    <div> 
-<img src = "https://logospng.org/download/html-5/logo-html-5-768.png" title="HTML5" alt="HTML"
-width="40" height= "40"/>&nbsp;
-
-<img src = "https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" title="CSS" alt="CSS"
-width="40" height= "40"/>&nbsp;
- 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" title="Javascript" alt="Javascript"
-width="40" height= "40"/>&nbsp;
- 
-<img src = "https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" title="React" alt="React"
-width="40" height= "40"/>&nbsp;
- 
-
+   
 <div>
 <img src = "https://logospng.org/download/html-5/logo-html-5-768.png" title="HTML5" alt="HTML"
 width="40" height= "40"/>&nbsp;
