@@ -20,6 +20,7 @@ I'm currently learning **AWS, SQL and MongoDB
 <h3> Language and Tools</h3>
 
 <div>
+    <div> 
 <img src = "https://logospng.org/download/html-5/logo-html-5-768.png" title="HTML5" alt="HTML"
 width="40" height= "40"/>&nbsp;
 
