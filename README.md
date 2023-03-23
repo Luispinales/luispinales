@@ -9,7 +9,7 @@
 
 ---
 
-I have experience with, HTML, Javascript, CSS, React, Node.JS, Express.JS, PHP and Python 
+I have experience with, HTML, Javascript, CSS, TypeScript, React, Node.JS, Express.JS, PHP and Python 
 
 You can reach by my email **Luispamparo13@gmail.com
 
